@@ -1,0 +1,8 @@
+.board {
+	margin:50px auto 0;
+	width:360px;
+}
+.grid {
+	display:flex;
+	flex-wrap:wrap;
+}
